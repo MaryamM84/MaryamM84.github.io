@@ -1,8 +1,10 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: my favorite music
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- Pa ghadam 
+- if the world was ending
+- fly me to the moon
+-careless whisper
+-city of star

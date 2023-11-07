@@ -1,23 +1,22 @@
 ---
 layout: posts
-title: Test Post
+title: beautiful place
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
 
-[my favorite website](http://www.google.com)
+the places that I like are:
+- jungle
+-mountain
+- sea
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+
+ راه رفتن در جنگل و پا گذاشتن در شن های ساحل و بالارفتن از کوه
+  میتواند حس آرامش و نزدیکی به خداوند را در من ایجاد کند.!!!
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
+![places](../assets/images/grouppic.jpg "Team Picture")
 
 ---
-**Test**: This is atest
+**Test**: 
