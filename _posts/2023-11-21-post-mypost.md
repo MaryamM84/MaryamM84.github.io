@@ -5,7 +5,7 @@ title: my works
 
 # these are my works which i painted them with turtle library :
 
-- <font color="pink">this is my tree code</font>
+- <font color="light pink">this is my tree code</font>
 
 <pre style="font-size:25;">
 import turtle as t
@@ -44,7 +44,7 @@ t.mainloop()
 اول یک تابع برای  گل درخت ام تعریف کردم که از دایره براش استفاده کردم 
 سپس درختم را طوری که اندازه شاخه هایش رو به بالا نازک شود تعریف کردم و رنگ هم براش مشخص کردیم 
 
-- this is my jungle code
+- <font color="light pink">this is my jungle code</font>
 <pre style="font-size:25;">
 import turtle as t
 import random
@@ -124,7 +124,8 @@ t.update()
 t.mainloop()
 </pre>
 برای جنگلم از تابع درختم که در بالا نوشته بودم استفاده کردم و از رندوم برای اینکه بیشتر شبیه جنگل شود استفاده کردم و برای رنگ صفحه که شبیه آسمان شود آبی انتخاب کردم و یک مستطیل برای زمین به رنگ سبز تعریف کردم
-- this is my triangle fractal code
+
+- <font color="light pink">this is my triangle fractal code</font>
 
 <pre style="font-size:25;">
 import turtle as t
