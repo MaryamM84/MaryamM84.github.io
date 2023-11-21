@@ -7,7 +7,7 @@ title: my works
 
 - <font color="violet">this is my tree code</font>
 
-<pre style="font-size:25;">
+<pre style="font-size:17;">
 import turtle as t
 
 def gol():
@@ -45,7 +45,7 @@ t.mainloop()
 سپس درختم را طوری که اندازه شاخه هایش رو به بالا نازک شود تعریف کردم و رنگ هم براش مشخص کردیم 
 
 - <font color="violet">this is my jungle code</font>
-<pre style="font-size:25;">
+<pre style="font-size:17;">
 import turtle as t
 import random
 
@@ -127,7 +127,7 @@ t.mainloop()
 
 - <font color="violet">this is triangle fractal code</font>
 
-<pre style="font-size:25;">
+<pre style="font-size:17;">
 import turtle as t
 def triangle(d):
     if d<10:
