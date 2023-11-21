@@ -125,7 +125,7 @@ t.mainloop()
 </pre>
 برای جنگلم از تابع درختم که در بالا نوشته بودم استفاده کردم و از رندوم برای اینکه بیشتر شبیه جنگل شود استفاده کردم و برای رنگ صفحه که شبیه آسمان شود آبی انتخاب کردم و یک مستطیل برای زمین به رنگ سبز تعریف کردم
 
-- <font color="light pink">this is my triangle fractal code</font>
+- <font color="pink">this is my triangle fractal code</font>
 
 <pre style="font-size:17;">
 import turtle as t
