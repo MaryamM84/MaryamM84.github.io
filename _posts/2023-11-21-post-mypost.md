@@ -4,8 +4,9 @@ title: my works
 ---
 
 # these are my works which i painted them with turtle library :
-<pre>
+
 - this is my tree code 
+<pre>
 import turtle as t
 
 def gol():
@@ -18,7 +19,6 @@ def gol():
             t.lt(90)
             t.end_fill()
         t.rt(60)
-
 
 def tree(d,r,w):
     t.pencolor("darkorange4")
@@ -39,8 +39,9 @@ t.speed(0)
 t.lt(90)
 tree(100 ,30,20)
 t.mainloop()
-
+</pre>
 - this is my jungle code
+<pre>
 import turtle as t
 import random
 
@@ -57,7 +58,6 @@ def gol():
             t.lt(90)
             t.end_fill()
         t.rt(60)
-
 
 t.bgcolor("#99d6f0")
 def zamin():
@@ -109,7 +109,6 @@ t.rt(90)
 t.fd(1000)
 t.end_fill()
 
-
 for _ in range(10):
     t.penup()
     t.setpos(random.randint(-800,600), random.randint(150,350))
@@ -119,9 +118,10 @@ for _ in range(10):
 jangal(100, 30, 10)
 t.update()
 t.mainloop()
-
+</pre>
 
 - this is my triangle fractal code
+<pre>
 import turtle as t
 def triangle(d):
     if d<10:
@@ -138,7 +138,7 @@ def triangle(d):
     
 triangle(200)
 t.mainloop()
-
+</pre>
 
 
 
