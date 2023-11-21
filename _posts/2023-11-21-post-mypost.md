@@ -5,7 +5,7 @@ title: my works
 
 # these are my works which i painted them with turtle library :
 
-- <font color="#FF1493">this is my tree code</font>
+- <font color="light pink">this is my tree code</font>
 
 <pre style="font-size:25;">
 import turtle as t
