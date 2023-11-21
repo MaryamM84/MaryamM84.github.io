@@ -10,9 +10,10 @@ People in the picture are:
 
 that is one of my favorite kdrama
 
-
+![Book logo](../assets/download.jpeg "kdrama picture")
 <img src="../assets/images/download.jpg">
-![places](../assets/images/download.jpg "kdrama picture")
+
+![alt text](../assets/images/download.jpg "")
 
 ---
 **Test**: 
