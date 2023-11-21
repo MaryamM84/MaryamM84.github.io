@@ -3,15 +3,143 @@ layout: posts
 title: my works
 ---
 
+# these are my works which i painted them with turtle library :
+<pre>
+- this is my tree code 
+import turtle as t
 
-these are my works which i painted them with turtle library :
+def gol():
+    for _ in range(6):
+        for i in range(2):
+            t.fillcolor("pink")
+            t.begin_fill()
+            t.pencolor("pink")
+            t.circle(5,90)
+            t.lt(90)
+            t.end_fill()
+        t.rt(60)
+
+
+def tree(d,r,w):
+    t.pencolor("darkorange4")
+    if d<10 or r<10:
+        return
+    t.pensize(w)
+    t.fd(d)
+    t.lt(r)
+    tree(d*0.7,r,w*0.5)
+    t.rt(2*r)
+    if d>=10 and d<15 :
+        gol()
+    tree(d*0.7,r,w*0.5)
+    t.lt(r)
+    t.backward(d)
+
+t.speed(0)
+t.lt(90)
+tree(100 ,30,20)
+t.mainloop()
+
 - this is my jungle code
-- 
-- 
+import turtle as t
+import random
+
+color_list=["pink","#f0979e","#e3919f"]
+
+def gol():
+    x = random.choice(color_list)
+    for _ in range(6) :
+        for i in range(2):
+            t.fillcolor (x)
+            t.begin_fill()
+            t.pencolor(x)
+            t.circle(5,90)
+            t.lt(90)
+            t.end_fill()
+        t.rt(60)
 
 
- راه رفتن در جنگل و پا گذاشتن در شن های ساحل و بالارفتن از کوه
-  میتواند حس آرامش و نزدیکی به خداوند را در من ایجاد کند.!!!
+t.bgcolor("#99d6f0")
+def zamin():
+    t.setpos(random.randint(-1800,1800))
+    t.rt(90)
+    t.fd(1800)
+    t.rt(90)
+    t.fd(1000)
+    t.rt(1800)
+    t.fd(1000)
+
+def tree(d,r,w):
+    t.pencolor("darkorange4")
+    if d<10 or r<10:
+        return
+    t.pensize(w)
+    t.fd(d)
+    t.lt(r)
+    tree(d*random.randint(5, 8)*0.1,r,w*0.5)
+    t.rt(2*r)
+    if d>=10 and d<15 :
+        gol()
+    tree(d*random.randint(5, 8)*0.1,r,w*0.5)
+    t.lt(r)
+    t.backward(d)
+
+
+def jangal(d,r,w):
+    for _ in range(0,20): 
+        t.penup()
+        t.setpos(random.randint(-500,500), random.randint(-300, -100))
+        t.pendown()
+        tree(d,r,w)
+
+
+t.tracer(0)
+t.penup()
+t.setpos(-1800, -50)
+t.pencolor("#49b51f")
+t.fillcolor("#49b51f")
+t.pendown()
+t.begin_fill()
+t.fd(3600)
+t.rt(90)
+t.fd(1000)
+t.rt(90)
+t.fd(3600)
+t.rt(90)
+t.fd(1000)
+t.end_fill()
+
+
+for _ in range(10):
+    t.penup()
+    t.setpos(random.randint(-800,600), random.randint(150,350))
+    t.pendown()
+    gol()
+
+jangal(100, 30, 10)
+t.update()
+t.mainloop()
+
+
+- this is my triangle fractal code
+import turtle as t
+def triangle(d):
+    if d<10:
+        return
+    t.pensize(3)
+    t.pencolor("light pink")
+    for i in range(3):
+        t.tracer(0)
+        t.fd(d)
+        t.lt(120)
+        triangle(d/2)
+        t.update()
+
+    
+triangle(200)
+t.mainloop()
+
+
 
 
 
