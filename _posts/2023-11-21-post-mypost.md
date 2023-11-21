@@ -41,6 +41,7 @@ t.lt(90)
 tree(100 ,30,20)
 t.mainloop()
 </pre>
+![places](../assets/images/tree.png "Team Picture")
 اول یک تابع برای  گل درخت ام تعریف کردم که از دایره براش استفاده کردم 
 سپس درختم را طوری که اندازه شاخه هایش رو به بالا نازک شود تعریف کردم و رنگ هم براش مشخص کردیم 
 
@@ -123,6 +124,7 @@ jangal(100, 30, 10)
 t.update()
 t.mainloop()
 </pre>
+![places](../assets/images/jungle.png "Team Picture")
 برای جنگلم از تابع درختم که در بالا نوشته بودم استفاده کردم و از رندوم برای اینکه بیشتر شبیه جنگل شود استفاده کردم و برای رنگ صفحه که شبیه آسمان شود آبی انتخاب کردم و یک مستطیل برای زمین به رنگ سبز تعریف کردم
 
 - <font color="violet">this is triangle fractal code</font>
@@ -144,10 +146,10 @@ def triangle(d):
 triangle(200)
 t.mainloop()
 </pre>
+![places](../assets/images/tri.png "Team Picture")
 ابتدا برای مثلثم رنگ و سایز انتخاب کردم و برای مثلث توی رنج 3 تا وقتی طول مشخص شده رو داشته باشه مثلث بکشه با که مهم ترین نکته اینه که باید 120 درجه بچرخد اندازه زاویه خارجی مثلث
 
 
-![places](../assets/images/grouppic.jpg "Team Picture")
 
 ---
 **Test**: 
