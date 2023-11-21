@@ -11,7 +11,7 @@ People in the picture are:
 that is one of my favorite kdrama
 
 
-
+<img src="../assets/images/download.jpg">
 ![places](../assets/images/download.jpg "kdrama picture")
 
 ---
