@@ -12,7 +12,7 @@ that is one of my favorite kdrama
 
 
 
-![alt text](../assets/images/download.jpg "kdrama picture")
+![places](../assets/images/download.jpg "kdrama picture")
 
 ---
 **Test**: 
