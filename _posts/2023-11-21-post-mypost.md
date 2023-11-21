@@ -5,8 +5,9 @@ title: my works
 
 # these are my works which i painted them with turtle library :
 
-- this is my tree code 
-<pre>
+- <font color="red">this is my tree code</font>
+
+<pre style="font-size:25;">
 import turtle as t
 
 def gol():
@@ -40,8 +41,11 @@ t.lt(90)
 tree(100 ,30,20)
 t.mainloop()
 </pre>
+اول یک تابع برای  گل درخت ام تعریف کردم که از دایره براش استفاده کردم 
+سپس درختم را طوری که اندازه شاخه هایش رو به بالا نازک شود تعریف کردم و رنگ هم براش مشخص کردیم 
+
 - this is my jungle code
-<pre>
+<pre style="font-size:25;">
 import turtle as t
 import random
 
@@ -119,9 +123,10 @@ jangal(100, 30, 10)
 t.update()
 t.mainloop()
 </pre>
-
+برای جنگلم از تابع درختم که در بالا نوشته بودم استفاده کردم و از رندوم برای اینکه بیشتر شبیه جنگل شود استفاده کردم و برای رنگ صفحه که شبیه آسمان شود آبی انتخاب کردم و یک مستطیل برای زمین به رنگ سبز تعریف کردم
 - this is my triangle fractal code
-<pre>
+
+<pre style="font-size:25;">
 import turtle as t
 def triangle(d):
     if d<10:
@@ -135,13 +140,10 @@ def triangle(d):
         triangle(d/2)
         t.update()
 
-    
 triangle(200)
 t.mainloop()
 </pre>
-
-
-
+ابتدا برای مثلثم رنگ و سایز انتخاب کردم و برای مثلث توی رنج 3 تا وقتی طول مشخص شده رو داشته باشه مثلث بکشه با که مهم ترین نکته اینه که باید 120 درجه بچرخد اندازه زاویه خارجی مثلث
 
 
 ![places](../assets/images/grouppic.jpg "Team Picture")
