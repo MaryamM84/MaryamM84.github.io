@@ -6,7 +6,7 @@ title: beautiful place
 
 the places that I like are:
 - jungle
--mountain
+- mountain
 - sea
 
 

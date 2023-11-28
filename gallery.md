@@ -27,7 +27,6 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"   
-  ![places](../assets/images/house.jpeg "house Picture")
   # - url: /assets/images/house.jpeg
   # image_path: /assets/images/house.jpeg
   #   alt: "placeholder image house"
