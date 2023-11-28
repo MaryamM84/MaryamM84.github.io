@@ -35,3 +35,4 @@ gallery:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
+---
