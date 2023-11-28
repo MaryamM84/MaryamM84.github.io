@@ -31,7 +31,7 @@ gallery:
   image_path: /assets/images/house.jpeg
     alt: "placeholder image house"
     title: "Image house title caption" 
----
+ ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
