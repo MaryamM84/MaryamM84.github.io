@@ -27,10 +27,10 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"   
-  - url: /assets/images/house.jpeg
-  image_path: /assets/images/house.jpeg
-    alt: "placeholder image house"
-    title: "Image house title caption" 
+  # - url: /assets/images/house.jpeg
+  # image_path: /assets/images/house.jpeg
+  #   alt: "placeholder image house"
+  #   title: "Image house title caption" 
 
 ---
 
