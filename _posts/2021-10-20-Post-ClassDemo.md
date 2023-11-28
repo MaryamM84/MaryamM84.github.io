@@ -12,8 +12,8 @@ that is one of my favorite kdrama
 
 ![Book logo](../assets/download.jpeg "kdrama picture")
 
-<img src="../assets/images/download.jpg">
+<!-- <img src="../assets/images/download.jpg">
 
-![alt text](../assets/images/download.jpg "kdrama picture")
+![alt text](../assets/images/download.jpg "kdrama picture") -->
 
 ---
