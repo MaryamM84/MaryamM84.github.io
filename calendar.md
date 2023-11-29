@@ -1,5 +1,5 @@
 ---
-layout: calendar
+layout: single
 author_profile: true
 permalink: /calendar/
 title: calendar
