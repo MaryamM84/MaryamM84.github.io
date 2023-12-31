@@ -5,12 +5,12 @@ title: web app
 ## MY APP IS ABOUT GROWING FLOWERS
 
 here is my site addres
-<pre style:"font-family: 'Playfair Display', serif; " color="violet">  http://402522058.pythonanywhere.com/</pre>
+http://402522058.pythonanywhere.com/
 
 <h3>explanation about how to make it</h3>
 
 <pre>I used chat GBT and my own knowledge to build this web app. It was very challenging and difficult for me, but in the end I am very satisfied with the results of my work and efforts.😊</pre>
-![places](../assets/images/f_h.jpeg "house Picture")
+
 
 
 <h4 style= "text-align:left;">
