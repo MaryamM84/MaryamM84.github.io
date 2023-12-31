@@ -9,7 +9,8 @@ http://402522058.pythonanywhere.com/
 
 <h3>explanation about how to make it</h3>
 
-<pre>I used chat GBT and my own knowledge to build this web app. It was very challenging and difficult for me, but in the end I am very satisfied with the results of my work and efforts.😊</pre>
+<br>I used chat GBT and my own knowledge to build this web app. It was very challenging and difficult for me, but in the end I am very satisfied with the results of my work and efforts.😊
+<br>
 
 
 
